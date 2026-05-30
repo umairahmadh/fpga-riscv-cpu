@@ -1,6 +1,6 @@
 # 04 · RISC-V CPU ⭐
 
-**Part of [FPGA Journey](https://github.com/YOUR_USERNAME/fpga-journey)**
+**Part of [FPGA Journey](https://github.com/umairahmadh/fpga-journey)**
 
 > The flagship project: a pipelined, verified RV32I RISC-V core that runs real compiled programs. This is the project that makes the portfolio real.
 
@@ -139,4 +139,4 @@ fpga-04-riscv-cpu/
 
 ---
 
-**← Previous:** [03 · Peripherals](https://github.com/YOUR_USERNAME/fpga-03-peripherals) &nbsp;|&nbsp; **Next →** [05 · SoC](https://github.com/YOUR_USERNAME/fpga-05-soc)
+**← Previous:** [03 · Peripherals](https://github.com/umairahmadh/fpga-03-peripherals) &nbsp;|&nbsp; **Next →** [05 · SoC](https://github.com/umairahmadh/fpga-05-soc)
